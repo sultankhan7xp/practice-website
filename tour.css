@@ -1,0 +1,30 @@
+body {
+    background-image:url(./picture/background.jpg);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+     h2 {
+    color: #ee3e80;}
+    p {
+    color: #665544;}
+    .first_css{
+        background-color:rgb(234, 253, 252)
+    }
+    h1 {
+        color:#52c4d8;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+    input {
+        margin: 0 auto;
+
+      display: block;
+      height: 60px;
+      border-radius: 50px;
+      width: 500px;
+      margin-top: 50px;
+      padding-left: 10px; 
+   }
