@@ -1,0 +1,64 @@
+.container {
+    min-height: 500px;
+    max-height: 600px;
+    background-image: url(picture/background_1.jpg);
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: scroll;
+  }
+  
+  .box {
+    height: 400px;
+    width: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+  
+  }
+  
+  .box1 {
+    
+    border-top-right-radius: 12px;
+  }
+  
+  .box2 {
+    
+    border-radius: 25px;
+  }
+  
+  .box3 {
+    
+    display: none;
+  }
+  
+  
+  
+  .box_img {
+    height: 300px;
+    width: 600px;
+  }
+  h5 {
+    size: 30px;
+    color: rgb(255, 250, 250);
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    color: white;
+    margin: 0px;
+  }
+  h1{
+    
+    color: rgb(255, 250, 250);
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
